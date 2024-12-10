@@ -1,0 +1,16 @@
+# Fichiers Qt spécifiques
+*.pro.user
+*.qmake.stash
+
+# Dossiers de build
+build-*/
+
+# Fichiers générés
+*.moc
+moc_*
+ui_*.h
+
+# Binaires et objets
+*.o
+*.so
+

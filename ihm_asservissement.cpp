@@ -6,6 +6,7 @@ IHM_asservissement::IHM_asservissement(QWidget *parent)
     , ui(new Ui::IHM_asservissement)
 {
     ui->setupUi(this);
+// test git
 }
 
 IHM_asservissement::~IHM_asservissement()
